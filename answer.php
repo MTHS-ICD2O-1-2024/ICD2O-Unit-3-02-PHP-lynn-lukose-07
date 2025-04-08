@@ -30,7 +30,7 @@
     sizes="16x16"
     href="./favicon-16x16.png" />
   <link rel="manifest" href="./site.webmanifest" />
-  <title>Volume of a right rectangular pyramid, PHP</title>
+  <title>Volume of a Pyramid, PHP</title>
 </head>
 
 <body>
@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/pyramid.png" alt="Image of pyramid with labeled sides" width="250" />
+        <img src="./images/pyramid.png" alt="Image of pyramid" width="250" />
       </div>
       <div class="page-content-php">
         <div id="user-info">
