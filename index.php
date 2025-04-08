@@ -47,7 +47,7 @@
       </div>
       <br />
       <div class="page-content">
-        Formula: V = l * w * h / 3
+        Formula: V = (L x W x H) / 3
         <br />
         <br />
         <br />
@@ -62,8 +62,8 @@
               type=" number"
               step="any"
               pattern="-?[0-9]*(\.[0-9]+)?"
-              name="length-of-pyramid">
-            <label class="mdl-textfield__label" for="length-of-pyramid">Enter the length of the pyramid here (mm)</label>
+              name="length">
+            <label class="mdl-textfield__label" for="length">Enter the length of the pyramid here (mm)</label>
             <span class="mdl-textfield__error">Input is not a number!</span>
           </div>
         mm
@@ -75,8 +75,8 @@
             type=" number"
             step="any"
             pattern="-?[0-9]*(\.[0-9]+)?"
-            name="width-of-pyramid">
-          <label class="mdl-textfield__label" for="width-of-pyramid">Enter the width of the pyramid here (mm)</label>
+            name="width">
+          <label class="mdl-textfield__label" for="width">Enter the width of the pyramid here (mm)</label>
           <span class="mdl-textfield__error">Input is not a number!</span>
         </div>
         mm
@@ -88,8 +88,8 @@
             type=" number"
             step="any"
             pattern="-?[0-9]*(\.[0-9]+)?"
-            name="height-of-pyramid">
-          <label class="mdl-textfield__label" for="height-of-pyramid">Enter the height of the pyramid here (mm)</label>
+            name="height">
+          <label class="mdl-textfield__label" for="height">Enter the height of the pyramid here (mm)</label>
           <span class="mdl-textfield__error">Input is not a number!</span>
         </div>
         mm
