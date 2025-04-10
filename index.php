@@ -63,7 +63,7 @@
               step="any"
               pattern="-?[0-9]*(\.[0-9]+)?"
               name="length">
-            <label class="mdl-textfield__label" for="length">Enter the length of the pyramid here (mm)</label>
+            <label class="mdl-textfield__label" for="length"></label>
             <span class="mdl-textfield__error">Input is not a number!</span>
           </div>
         mm
@@ -76,7 +76,7 @@
             step="any"
             pattern="-?[0-9]*(\.[0-9]+)?"
             name="width">
-          <label class="mdl-textfield__label" for="width">Enter the width of the pyramid here (mm)</label>
+          <label class="mdl-textfield__label" for="width"></label>
           <span class="mdl-textfield__error">Input is not a number!</span>
         </div>
         mm
@@ -89,7 +89,7 @@
             step="any"
             pattern="-?[0-9]*(\.[0-9]+)?"
             name="height">
-          <label class="mdl-textfield__label" for="height">Enter the height of the pyramid here (mm)</label>
+          <label class="mdl-textfield__label" for="height"></label>
           <span class="mdl-textfield__error">Input is not a number!</span>
         </div>
         mm
